@@ -8,6 +8,8 @@
 Здесь будет проект о путешествии по России.
 
 
-https://github.com/Kirill-Malskiy/russian-travel
+ссылка
+
+https://kirill-malskiy.github.io/russian-travel/index.html 
 
 
