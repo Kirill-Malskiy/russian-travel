@@ -1,0 +1,13 @@
+.plase__image {
+    object-fit: cover;
+    width: 100%;
+}
+
+@media screen and (max-width: 320px) {
+    .plase__image {
+    width: 320px;
+    
+    }
+  }
+  
+  

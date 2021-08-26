@@ -1,0 +1,19 @@
+.header__row-links{
+    display: flex;
+    margin: 0 48px 0 0;
+    align-items: flex-end;
+}
+
+
+
+@media screen and (max-width: 768px){
+    .header__row-links{
+        margin: 0 24px 0 0;
+    }
+} 
+
+@media screen and (max-width: 320px){
+    .header__row-links{
+        margin: 0 16px 0 0;
+    }
+} 

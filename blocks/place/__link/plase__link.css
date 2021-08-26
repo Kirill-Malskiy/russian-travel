@@ -1,0 +1,15 @@
+.plase__link {
+    font-family: "Inter", Arial, sans-serif;
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration: underline;
+  }
+  
+  .plase__link:hover {
+    opacity: 0.6;
+  }
+  
+  
