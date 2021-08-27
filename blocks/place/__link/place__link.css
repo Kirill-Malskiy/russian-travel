@@ -1,4 +1,4 @@
-.plase__link {
+.place__link {
     font-family: "Inter", Arial, sans-serif;
     color: #ffffff;
     font-weight: normal;
@@ -7,7 +7,7 @@
     text-decoration: underline;
   }
   
-  .plase__link:hover {
+  .place__link:hover {
     opacity: 0.6;
   }
   
