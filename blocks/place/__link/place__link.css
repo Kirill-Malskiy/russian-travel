@@ -5,10 +5,10 @@
     font-size: 18px;
     line-height: 22px;
     text-decoration: underline;
-  }
+}
   
   .place__link:hover {
-    opacity: 0.6;
-  }
+    opacity: 0.8;
+}
   
   

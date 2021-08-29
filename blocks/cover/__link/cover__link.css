@@ -5,11 +5,13 @@
     width: 100%;
     flex-direction: column;
     text-decoration: none;
-    
+    /* background-color: #2A2C2F;
+    opacity: 0.3; */
+    background-color: rgb(42, 44, 47, 0.3);
 }
 
 .cover__link:hover{
-    background-color: rgba(42, 44, 47, 0.445);
+    background-color: rgb(42, 44, 47, 0.8);
 }
 
 
