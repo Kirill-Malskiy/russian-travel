@@ -6,6 +6,7 @@
     grid-template-columns: repeat(auto-fill, minmax(284px, 1fr));
     grid-gap: 16px;
     margin-top: 92px;
+    grid-template-rows: 23vh 23vh 23vh;
     
 
 }
@@ -13,6 +14,7 @@
 @media screen and (max-width: 1024px) {
     .photo-grid {
         grid-gap: 14px;
+    
     }
 }
 
