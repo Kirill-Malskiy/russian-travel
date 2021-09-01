@@ -5,10 +5,7 @@
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(284px, 1fr));
     grid-gap: 16px;
-    margin-top: 45px;
-    
-    
-
+    margin-top: 32px;
 }
 
 @media screen and (max-width: 1024px) {
