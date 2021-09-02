@@ -19,13 +19,20 @@
     .cover__title {
         padding-top: 0;
         max-width: 74%;
+        padding-bottom: 30px;
     }
 }
 
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 687px) {
     .cover__title {
         font-size: 33px;
         line-height: 35px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .cover__title {
+        padding-bottom: 18px;
     }
 }
