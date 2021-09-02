@@ -3,6 +3,20 @@
     width: 100%;
 }
 
+@media screen and (max-width: 1024px) {
+    .place__image {
+        width: 96%;
+    
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .place__image {
+        width: 99%;
+    
+    }
+}
+
 @media screen and (max-width: 320px) {
     .place__image {
         width: 320px;

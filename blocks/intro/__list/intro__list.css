@@ -10,3 +10,8 @@
     list-style: none;
 }
 
+@media screen and (max-width: 768px){
+    .intro__list{
+        padding: 31px 0;
+    }
+} 
